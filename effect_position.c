@@ -30,9 +30,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "SDL.h"
+#include "SDL2/SDL.h"
 #include "SDL_mixer.h"
-#include "SDL_endian.h"
+#include "SDL2/SDL_endian.h"
 
 #define __MIX_INTERNAL_EFFECT__
 #include "effects_internal.h"

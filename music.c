@@ -25,9 +25,9 @@
 #include <string.h>
 #include <ctype.h>
 #include <assert.h>
-#include "SDL_endian.h"
-#include "SDL_audio.h"
-#include "SDL_timer.h"
+#include "SDL2/SDL_endian.h"
+#include "SDL2/SDL_audio.h"
+#include "SDL2/SDL_timer.h"
 
 #include "SDL_mixer.h"
 

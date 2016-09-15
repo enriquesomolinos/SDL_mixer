@@ -25,9 +25,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "SDL_mutex.h"
-#include "SDL_endian.h"
-#include "SDL_timer.h"
+#include "SDL2/SDL_mutex.h"
+#include "SDL2/SDL_endian.h"
+#include "SDL2/SDL_timer.h"
 
 #include "SDL_mixer.h"
 #include "load_aiff.h"

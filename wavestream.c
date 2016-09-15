@@ -26,10 +26,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "SDL_audio.h"
-#include "SDL_mutex.h"
-#include "SDL_rwops.h"
-#include "SDL_endian.h"
+#include "SDL2/SDL_audio.h"
+#include "SDL2/SDL_mutex.h"
+#include "SDL2/SDL_rwops.h"
+#include "SDL2/SDL_endian.h"
 
 #include "SDL_mixer.h"
 #include "wavestream.h"
